@@ -83,7 +83,8 @@
 	url = https://github.com/cloudfoundry/blobstore_url_signer
 [submodule "src/cloud_controller_ng"]
 	path = src/cloud_controller_ng
-	url = https://github.com/cloudfoundry/cloud_controller_ng
+	url = https://github.com/AbelHu/cloud_controller_ng
+	branch = v244
 [submodule "src/code.cloudfoundry.org/tps"]
 	path = src/code.cloudfoundry.org/tps
 	url = https://github.com/cloudfoundry/tps
